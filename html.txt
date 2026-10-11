@@ -1,2 +1,3 @@
 Grid Taşma Yönetimi dosyası
 İndex dosyası oluşturuldu
+CSS dosyası oluşturuldu
