@@ -1,1 +1,2 @@
 Grid Taşma Yönetimi dosyası
+İndex dosyası oluşturuldu
